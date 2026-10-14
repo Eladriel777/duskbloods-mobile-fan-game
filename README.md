@@ -1,5 +1,7 @@
 # 黄昏之血 · 手机同人网页小游戏
 
+[简体中文](README.md) | [English](README.en.md)
+
 The Duskbloods Mobile Fan Game — 中文与英文可玩成品。
 
 **仅支持手机触屏横屏游玩，不支持电脑键鼠玩法。**
