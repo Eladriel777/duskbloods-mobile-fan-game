@@ -1,0 +1,9 @@
+work/
+node_modules/
+.env
+.env.*
+.git/
+*.log
+*.err
+__pycache__/
+*.pyc
